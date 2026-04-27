@@ -1,4 +1,4 @@
-# Algoritimo de Dijkstra
+# Algoritmo de Dijkstra
 
 Programa que executa o teorema de Dijkstra
 
